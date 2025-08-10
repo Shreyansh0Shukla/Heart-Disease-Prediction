@@ -137,19 +137,18 @@ This starts the React app (default: `http://localhost:3000/`).
 
 ## 👥 Contributors
 
-- Project authors: *Your Name(s) here*  
-- Guide / Mentor: *Guide Name*
+- Project authors: Shreyansh Shukla , Sarthak Rautela, Shubh Bishnoi
 
 ---
 
 ## 📄 License
 
-This project is provided under the **MIT License**. See `LICENSE` for details.
+This project is Lisence is reserved to the project Authors .
 
 ---
 
 ## 📬 Contact
 
-For questions, suggestions, or collaboration, open an issue in this repository or contact the maintainers via the details in the repo profile.
+For questions, suggestions, or collaboration, open an issue in this repository or contact the maintainers via the details in the repo profile. Also can mail us in shreyanshshukla.21011724@gehu.ac.in , shubhbishnoi.210111561@gehu.ac.in or sarthakrautela,21011982@gehu.ac.in
 
 ---
