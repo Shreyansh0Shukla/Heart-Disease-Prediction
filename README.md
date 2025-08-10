@@ -1,2 +1,2 @@
 # Heart-Disease-Prediction
-Heart-Disease-Prediction with TLBO and GA
+Heart-Disease-Prediction with CNN , TLBO and GA
